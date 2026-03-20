@@ -4,3 +4,4 @@ kaggle
 matplotlib
 seaborn
 ipython
+scikit-learn
